@@ -1,8 +1,56 @@
-# React + Vite
+# LoginSignup
+*****
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Author :
+1. Mugo Joseph Wamiti 
 
-Currently, two official plugins are available:
+****
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Description
+
+
+## Features
+
+
+## SetUp Instructions
+
+### Requirements
+
+
+### Getting Started
+
+1. **Clone the repository**
+
+   First, clone the project repository to your local machine using the following command:
+
+    ```bash
+    git clone  https://github.com/wametee/loginsignup
+    ```
+
+    ```bash
+    cd loginsignup
+    ```
+
+2. **Install dependencies**
+
+   After cloning the repository, run the following commands to install the necessary dependencies:
+
+    ```bash
+    npm install
+    ```
+
+    ```bash
+    npm run dev
+    ```
+
+
+## Technologies Used
+
+
+*****
+
+## Contact Information
+
+* Email: wamiti8711@gmail.com
+
+*****
