@@ -58,7 +58,7 @@ const Login = () => {
           </button>
         </form>
 
-        <p className='mb-2 text-sm'>Or sign up with</p>
+        <p className='mb-2 text-sm'>Or Login in with</p>
 
         {/* Social Buttons */}
         <div className='flex space-x-4 mb-4'>
