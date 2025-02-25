@@ -18,8 +18,8 @@ const Login = () => {
 
       {/* Right side with form */}
       <div className='w-full md:w-1/2 flex flex-col justify-center items-center p-6 md:p-8'>
-        <h2 className='text-2xl md:text-3xl font-bold mb-2'>Sign up</h2>
-        <p className='mb-4 text-sm md:text-base'>Sign up to your account</p>
+        <h2 className='text-2xl md:text-3xl font-bold mb-2'>Login</h2>
+        <p className='mb-4 text-sm md:text-base'>Login to your account</p>
 
         <form className='flex flex-col w-full md:w-3/4'>
 
