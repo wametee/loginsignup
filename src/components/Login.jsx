@@ -11,10 +11,9 @@ const Login = () => {
 
   return (
     <div className='flex flex-col md:flex-row h-screen'>
-      {/* Left side with image (hidden on small screens) */}
-      <div className='hidden md:flex w-1/2 h-full'>
-        <img src={farmer} alt="Farmer" className='w-full h-full object-cover' />
-      </div>
+       <div className='w-full md:w-1/2 h-48 md:h-full'>
+             <img src={farmer} alt="Farmer" className='w-full h-full object-cover' />
+        </div>
 
       {/* Right side with form */}
       <div className='w-full md:w-1/2 flex flex-col justify-center items-center p-6 md:p-8'>

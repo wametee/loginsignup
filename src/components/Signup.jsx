@@ -11,8 +11,8 @@ const Signup = () => {
 
   return (
     <div className='flex flex-col md:flex-row h-screen'>
-      {/* Left side with image (hidden on small screens) */}
-      <div className='hidden md:block w-1/2 h-full'>
+      {/* Image section (Moves to top on small screens) */}
+      <div className='w-full md:w-1/2 h-48 md:h-full'>
         <img src={farmer} alt="Farmer" className='w-full h-full object-cover' />
       </div>
 
